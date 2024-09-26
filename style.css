@@ -23,6 +23,13 @@
  .cabeçalho__titulo{
    font-size: 2rem;
    color: var(--cor-texto);
+font-weight: 700;
 
 
  }
+.nav{
+   display: flex;
+   justify-content: center;
+   font-weight: 400;   
+
+}
