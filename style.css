@@ -27,13 +27,13 @@ font-weight: 700;
 
 
  }
-.nav{
+nav{
    display: flex;
    justify-content: center;
    font-weight: 400;   
 
 }
-.nav a {
+nav a {
    text-decoration: none;
    color: var(--cor-texto);
    margin: 0 2rem 1rem 0;
